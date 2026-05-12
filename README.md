@@ -16,7 +16,10 @@ A free alternative to [query.domains](https://query.domains/) that runs in your 
 ## Install
 
 ```bash
-pip install python-whois dnspython wordninja
+git clone https://github.com/charlotte-wang-dev/domain-checker.git
+cd domain-checker
+bash setup.sh
+source .venv/bin/activate
 ```
 
 ## Usage
