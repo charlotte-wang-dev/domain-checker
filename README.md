@@ -2,8 +2,6 @@
 
 Fast bulk domain availability checker via WHOIS. No CAPTCHAs, no rate limits, no browser needed.
 
-A free alternative to [query.domains](https://query.domains/) that runs in your terminal.
-
 ## Features
 
 - **Bulk check** — 42 popular TLDs by default, up to 1500+ with `--all`
