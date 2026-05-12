@@ -22,6 +22,14 @@ bash setup.sh
 source .venv/bin/activate
 ```
 
+## Screenshots
+
+### Bulk check with auto hyphen variants
+![Bulk Check](screenshots/bulk-check.png)
+
+### Interactive detail view (WHOIS, site status, preview, raw data)
+![Detail View](screenshots/detail-view.png)
+
 ## Usage
 
 ```bash
